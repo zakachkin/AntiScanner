@@ -27,4 +27,4 @@
 ## Использование
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/<your-username>/AntiScanner/refs/heads/main/AntiScanner.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/zakachkin/AntiScanner/refs/heads/main/AntiScanner.sh)
